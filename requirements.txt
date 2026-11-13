@@ -1,0 +1,5 @@
+# Runtime: Python 3.10 or newer with Tkinter (Tcl/Tk).
+# Windows: py -m tkinter
+# macOS:   python3 -m tkinter
+# The check above should open a small Tk test window.
+Pillow>=10.0
